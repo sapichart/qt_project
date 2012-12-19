@@ -1,0 +1,14 @@
+<qt-jambi-custom-widget-list>
+    <qt-jambi-custom-widget
+        class="Test"
+        group="qt_hackathon"
+    />
+    <qt-jambi-custom-widget
+        class="com.shipco.hackathon.AA"
+        group="qt_hackathon"
+    />
+    <qt-jambi-custom-widget
+        class="com.shipco.hackathon.QT_Hackathon"
+        group="qt_hackathon"
+    />
+</qt-jambi-custom-widget-list>
